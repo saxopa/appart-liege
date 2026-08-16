@@ -272,7 +272,11 @@ function carte(l) {
     </div>
 
     <p class="lieu">${escape([
-      l.ville, l.quartier, l.code_postal,
+      l.ville,
+      // Immoweb répète souvent la commune en guise de quartier : on n'affiche
+      // le quartier que s'il apporte réellement une information de plus.
+      (l.quartier && l.quartier !== l.ville) ? l.quartier : null,
+      l.code_postal,
       l.chambres != null ? `${l.chambres} ch.` : null,
       l.etage != null ? `étage ${l.etage}` : null,
     ].filter(Boolean).join(' · ')) || '—'}</p>
