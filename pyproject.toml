@@ -1,0 +1,9 @@
+[project]
+name = "appart-liege"
+version = "0.1.0"
+description = "Collecteur d'annonces de location à Liège, publié en page statique"
+requires-python = ">=3.11"
+dependencies = [
+    "curl-cffi>=0.15.0",
+    "selectolax>=0.4.11",
+]

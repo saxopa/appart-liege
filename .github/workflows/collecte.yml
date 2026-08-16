@@ -1,0 +1,41 @@
+name: Collecte quotidienne
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 06:00 UTC, soit 08:00 à Liège en été
+  workflow_dispatch:       # permet de lancer à la main depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Collecter les annonces
+        # Le script sort en code 1 si la moisson est anormalement maigre :
+        # mieux vaut un échec visible qu'un tableau de bord vidé en silence
+        # parce que le portail a commencé à bloquer les IP de GitHub.
+        run: uv run python -m appart.collect
+
+      - name: Publier si le corpus a changé
+        run: |
+          if git diff --quiet -- web/data/listings.json; then
+            echo "Aucun changement, rien à publier."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/data/listings.json
+          git commit -m "Collecte du $(date -u +%Y-%m-%d)"
+          git push

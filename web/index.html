@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chercher un appart à Liège</title>
+<meta name="description" content="Annonces de location à Liège et alentours, regroupées et classées selon votre budget.">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="bandeau">
+  <div class="bandeau-haut">
+    <h1>Chercher un appart à Liège</h1>
+    <span class="maj" id="maj"></span>
+    <button type="button" id="ouvrir-reglages" class="btn-reglages">⚙ Mon budget</button>
+  </div>
+  <div class="budget" id="budget"></div>
+</header>
+
+<section id="reglages" class="reglages" hidden>
+  <div class="reglages-entete">
+    <h2>Mon budget et mes critères</h2>
+    <p class="note">
+      Ces réglages restent sur votre ordinateur. Ils ne sont envoyés nulle part
+      et ne sont visibles de personne d'autre.
+    </p>
+  </div>
+
+  <div class="reglages-grille">
+    <label class="champ">
+      <span>Ce que je peux payer par mois</span>
+      <input type="number" id="r-budget" step="25" min="0">
+      <small>Votre part réelle, une fois l'aide déduite.</small>
+    </label>
+    <label class="champ">
+      <span>Aide au logement estimée</span>
+      <input type="number" id="r-aide" step="10" min="0">
+      <small>0 si vous n'en touchez pas. En Wallonie l'aide n'est pas automatique.</small>
+    </label>
+    <label class="champ">
+      <span>Surface minimale (m²)</span>
+      <input type="number" id="r-surface" step="5" min="0">
+    </label>
+    <label class="champ">
+      <span>Chambres minimum</span>
+      <input type="number" id="r-chambres" step="1" min="0">
+    </label>
+    <label class="champ">
+      <span>Logement actuel — loyer</span>
+      <input type="number" id="r-ref-loyer" step="25" min="0">
+      <small>Sert de point de comparaison. Laissez vide si sans objet.</small>
+    </label>
+    <label class="champ">
+      <span>Logement actuel — surface</span>
+      <input type="number" id="r-ref-surface" step="5" min="0">
+    </label>
+  </div>
+
+  <fieldset class="exigences">
+    <legend>Ce à quoi je tiens</legend>
+    <label class="bascule"><input type="checkbox" id="r-balcon"><span>Balcon ou terrasse</span></label>
+    <label class="bascule"><input type="checkbox" id="r-parking"><span>Parking</span></label>
+    <label class="bascule"><input type="checkbox" id="r-ascenseur"><span>Ascenseur</span></label>
+    <small class="note">Coché = compte beaucoup dans le classement. Pour ne garder <em>que</em> ces biens, utilisez les filtres au-dessus de la liste.</small>
+  </fieldset>
+
+  <div class="reglages-actions">
+    <button type="button" id="fermer-reglages">Terminé</button>
+    <button type="button" id="reset-reglages" class="btn-secondaire">Valeurs par défaut</button>
+  </div>
+</section>
+
+<nav class="filtres" id="filtres">
+  <label class="champ">
+    <span>Loyer max</span>
+    <input type="number" id="f-loyer" step="25">
+  </label>
+  <label class="champ">
+    <span>Ma part max</span>
+    <input type="number" id="f-rac" step="25">
+  </label>
+  <label class="champ">
+    <span>Surface min</span>
+    <input type="number" id="f-surface" step="5">
+  </label>
+  <label class="champ">
+    <span>Commune</span>
+    <select id="f-ville"><option value="">toutes</option></select>
+  </label>
+  <label class="champ">
+    <span>Statut</span>
+    <select id="f-statut"><option value="">tous</option></select>
+  </label>
+  <label class="champ champ-large">
+    <span>Recherche</span>
+    <input type="search" id="f-texte" placeholder="quartier, rue, mot-clé…">
+  </label>
+
+  <div class="bascules">
+    <label class="bascule"><input type="checkbox" id="f-balcon"><span>Balcon</span></label>
+    <label class="bascule"><input type="checkbox" id="f-parking"><span>Parking</span></label>
+    <label class="bascule"><input type="checkbox" id="f-ascenseur"><span>Ascenseur</span></label>
+    <label class="bascule"><input type="checkbox" id="f-coloc"><span>Colocations</span></label>
+    <label class="bascule"><input type="checkbox" id="f-masquer-refus" checked><span>Masquer refusés</span></label>
+  </div>
+
+  <div class="actions">
+    <div class="vues" role="group" aria-label="Mode d'affichage">
+      <button type="button" id="vue-liste" class="vue active" aria-pressed="true">Liste</button>
+      <button type="button" id="vue-carte" class="vue" aria-pressed="false">Carte</button>
+    </div>
+    <label class="champ">
+      <span>Tri</span>
+      <select id="f-tri">
+        <option value="score">Pertinence</option>
+        <option value="rac">Ma part</option>
+        <option value="surface">Surface</option>
+        <option value="eur_m2">€/m²</option>
+        <option value="recent">Plus récentes</option>
+      </select>
+    </label>
+    <button type="button" id="reset" class="btn-secondaire">Réinitialiser</button>
+    <button type="button" id="export" class="btn-secondaire">Exporter</button>
+  </div>
+</nav>
+
+<main>
+  <p class="compteur" id="compteur"></p>
+  <div class="grille" id="grille"></div>
+
+  <div id="bloc-carte" hidden>
+    <div id="carte"></div>
+    <p class="legende">
+      <span><i class="pastille bon"></i> dans le budget, critères réunis</span>
+      <span><i class="pastille moyen"></i> dans le budget</span>
+      <span><i class="pastille haut"></i> au-dessus de votre part</span>
+      <span id="hors-carte"></span>
+    </p>
+  </div>
+</main>
+
+<footer class="pied">
+  Annonces publiques collectées sur Immoweb. Vos réglages et vos statuts
+  restent dans votre navigateur.
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
