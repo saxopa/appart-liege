@@ -76,7 +76,7 @@ def canoniser_villes(rows: list[dict]) -> int:
     return corriges
 
 RACINE = Path(__file__).resolve().parent.parent
-FICHIER = RACINE / "web" / "data" / "listings.json"
+FICHIER = RACINE / "docs" / "data" / "listings.json"
 
 
 def _cle_doublon(li: Listing | dict) -> str:

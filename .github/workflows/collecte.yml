@@ -30,12 +30,12 @@ jobs:
 
       - name: Publier si le corpus a changé
         run: |
-          if git diff --quiet -- web/data/listings.json; then
+          if git diff --quiet -- docs/data/listings.json; then
             echo "Aucun changement, rien à publier."
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add web/data/listings.json
+          git add docs/data/listings.json
           git commit -m "Collecte du $(date -u +%Y-%m-%d)"
           git push

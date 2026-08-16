@@ -39,7 +39,7 @@ navigateur, vos réglages sont à ressaisir.
 ## Sous le capot
 
 Une collecte tourne chaque matin sur GitHub Actions, récupère les annonces et
-met à jour `web/data/listings.json`. La page est servie par GitHub Pages.
+met à jour `docs/data/listings.json`. La page est servie par GitHub Pages.
 Aucun serveur à louer, aucun coût.
 
 | Source | Accès | Note |
@@ -80,7 +80,7 @@ qui présentait une seule commune comme six et rendait le filtre inutilisable.
 
 ```bash
 uv run python -m appart.collect        # collecter
-cd web && python3 -m http.server 8777  # voir la page en local
+cd docs && python3 -m http.server 8777  # voir la page en local
 ```
 
 La collecte sort en code 1 si elle ramène moins de 40 annonces : en
@@ -94,7 +94,7 @@ appart/
   store.py     JSON, déduplication, canonisation des communes
   collect.py   orchestrateur, seuil d'alerte
   sources/immoweb.py
-web/
+docs/
   index.html style.css app.js   le budget et le classement vivent ici
   data/listings.json            produit par la collecte
 ```
