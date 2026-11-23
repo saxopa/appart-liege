@@ -1,14 +1,14 @@
 {
  "meta": {
-  "derniere_maj": "2026-11-22T13:45:16+00:00",
-  "total": 614,
+  "derniere_maj": "2026-11-23T16:46:31+00:00",
+  "total": 612,
   "loyer_plafond_collecte": 1400,
   "par_source": {
-   "immoweb": 619
+   "immoweb": 618
   },
   "par_ville": {
-   "Liège": 410,
-   "Seraing": 45,
+   "Liège": 411,
+   "Seraing": 44,
    "Angleur": 22,
    "Ans": 19,
    "Esneux": 13,
@@ -24,10 +24,10 @@
    "Luik": 5,
    "Alleur": 4,
    "Beaufays": 4,
-   "Rocourt": 3,
    "Bressoux": 3,
    "Tilff": 3,
    "Fléron": 3,
+   "Rocourt": 2,
    "Romsee": 1,
    "Voroux-Lez-Liers": 1,
    "Montegnée": 1,
@@ -44,9 +44,161 @@
    "Glain": 1
   },
   "avec_position": 599,
-  "colocations": 82
+  "colocations": 83
  },
  "listings": [
+  {
+   "uid": "immoweb:0b63a73ad76a",
+   "source": "immoweb",
+   "titre": "Appartement rénové avec jardin, garage et parking",
+   "url": "https://www.immoweb.be/fr/annonce/22011821",
+   "loyer": 990.0,
+   "charges": null,
+   "charges_comprises": null,
+   "surface": 85,
+   "pieces": null,
+   "chambres": 2,
+   "type_bien": "apartment",
+   "ville": "Seraing",
+   "code_postal": "4100",
+   "quartier": "Liège",
+   "province": "Liège",
+   "adresse": "Rue des Sables 89",
+   "lat": 50.57994739999999,
+   "lon": 5.504148799999999,
+   "etage": 2,
+   "balcon": null,
+   "parking": true,
+   "ascenseur": null,
+   "meuble": null,
+   "cave": null,
+   "colocation": false,
+   "dpe": null,
+   "depot_garantie": null,
+   "date_dispo": null,
+   "date_publication": null,
+   "description": "",
+   "photos": [],
+   "contact": "ERA Blavier - Liège",
+   "pro": true,
+   "eur_m2": 11.65,
+   "vu_le": "2026-11-23T16:46:03+00:00",
+   "vu_le_premier": "2026-11-23T16:46:03+00:00"
+  },
+  {
+   "uid": "immoweb:06dd666b5b96",
+   "source": "immoweb",
+   "titre": "Appartement 2 chambres à louer – Jupille",
+   "url": "https://www.immoweb.be/fr/annonce/22012070",
+   "loyer": 1100.0,
+   "charges": null,
+   "charges_comprises": null,
+   "surface": 98,
+   "pieces": null,
+   "chambres": 2,
+   "type_bien": "apartment",
+   "ville": "Liège",
+   "code_postal": "4020",
+   "quartier": "Liège",
+   "province": "Liège",
+   "adresse": "Rue Paul Debraz 22",
+   "lat": 50.6370319,
+   "lon": 5.648632699999999,
+   "etage": 1,
+   "balcon": null,
+   "parking": null,
+   "ascenseur": null,
+   "meuble": null,
+   "cave": null,
+   "colocation": true,
+   "dpe": null,
+   "depot_garantie": null,
+   "date_dispo": null,
+   "date_publication": null,
+   "description": "",
+   "photos": [],
+   "contact": "Mirror Immobilier",
+   "pro": true,
+   "eur_m2": null,
+   "vu_le": "2026-11-23T16:46:12+00:00",
+   "vu_le_premier": "2026-11-23T16:45:58+00:00"
+  },
+  {
+   "uid": "immoweb:d2166c5cbc6b",
+   "source": "immoweb",
+   "titre": "Magnifique appartement 1 chambre",
+   "url": "https://www.immoweb.be/fr/annonce/22010771",
+   "loyer": 650.0,
+   "charges": null,
+   "charges_comprises": null,
+   "surface": 40,
+   "pieces": null,
+   "chambres": 1,
+   "type_bien": "apartment",
+   "ville": "Liège",
+   "code_postal": "4020",
+   "quartier": "Liège",
+   "province": "Liège",
+   "adresse": "Rue Gaston-Grégoire 27",
+   "lat": 50.6418445,
+   "lon": 5.5843075,
+   "etage": 4,
+   "balcon": null,
+   "parking": null,
+   "ascenseur": null,
+   "meuble": null,
+   "cave": null,
+   "colocation": false,
+   "dpe": null,
+   "depot_garantie": null,
+   "date_dispo": null,
+   "date_publication": null,
+   "description": "",
+   "photos": [],
+   "contact": "Immo-9",
+   "pro": true,
+   "eur_m2": 16.25,
+   "vu_le": "2026-11-23T16:46:12+00:00",
+   "vu_le_premier": "2026-11-23T16:45:58+00:00"
+  },
+  {
+   "uid": "immoweb:abd3efba0e33",
+   "source": "immoweb",
+   "titre": "Appartement duplex au cœur de Liège",
+   "url": "https://www.immoweb.be/fr/annonce/22012305",
+   "loyer": 695.0,
+   "charges": null,
+   "charges_comprises": null,
+   "surface": 66,
+   "pieces": null,
+   "chambres": 1,
+   "type_bien": "duplex",
+   "ville": "Liège",
+   "code_postal": "4000",
+   "quartier": "Liège",
+   "province": "Liège",
+   "adresse": "Rue de la Madeleine 15",
+   "lat": 50.6442194,
+   "lon": 5.575803,
+   "etage": 3,
+   "balcon": null,
+   "parking": null,
+   "ascenseur": null,
+   "meuble": null,
+   "cave": null,
+   "colocation": false,
+   "dpe": null,
+   "depot_garantie": null,
+   "date_dispo": null,
+   "date_publication": null,
+   "description": "",
+   "photos": [],
+   "contact": "HOMUP",
+   "pro": true,
+   "eur_m2": 10.53,
+   "vu_le": "2026-11-23T16:46:21+00:00",
+   "vu_le_premier": "2026-11-23T16:45:52+00:00"
+  },
   {
    "uid": "immoweb:29991619b1a7",
    "source": "immoweb",
@@ -82,7 +234,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": 16.67,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-21T13:51:25+00:00"
   },
   {
@@ -120,7 +272,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-21T13:51:25+00:00"
   },
   {
@@ -158,7 +310,7 @@
    "contact": "DOR & BLEUS Immobilier",
    "pro": true,
    "eur_m2": 7.21,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-21T13:51:25+00:00"
   },
   {
@@ -196,7 +348,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 9.89,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-21T13:51:24+00:00"
   },
   {
@@ -234,7 +386,7 @@
    "contact": "Logéa Immobilière",
    "pro": true,
    "eur_m2": 10.07,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-20T14:33:37+00:00"
   },
   {
@@ -272,7 +424,7 @@
    "contact": "Immobilière de la Bruyere",
    "pro": true,
    "eur_m2": 14.21,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:20+00:00"
   },
   {
@@ -310,7 +462,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 11.76,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:20+00:00"
   },
   {
@@ -348,7 +500,7 @@
    "contact": "5 sur 5 Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:20+00:00"
   },
   {
@@ -386,7 +538,7 @@
    "contact": "IMMO LIEGEOIS",
    "pro": true,
    "eur_m2": 10.28,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:20+00:00"
   },
   {
@@ -424,7 +576,7 @@
    "contact": "PRIVATE",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-20T14:33:15+00:00",
+   "vu_le": "2026-11-23T16:45:59+00:00",
    "vu_le_premier": "2026-11-20T14:33:15+00:00"
   },
   {
@@ -462,7 +614,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 18.37,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:08+00:00"
   },
   {
@@ -500,7 +652,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 19.05,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:08+00:00"
   },
   {
@@ -538,7 +690,7 @@
    "contact": "Zabra Real Estate",
    "pro": true,
    "eur_m2": 14.27,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:08+00:00"
   },
   {
@@ -576,7 +728,7 @@
    "contact": "Zabra Real Estate",
    "pro": true,
    "eur_m2": 19.03,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:08+00:00"
   },
   {
@@ -614,7 +766,7 @@
    "contact": "Zabra Real Estate",
    "pro": true,
    "eur_m2": 17.82,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:08+00:00"
   },
   {
@@ -652,7 +804,7 @@
    "contact": "Immobilière de la Bruyere",
    "pro": true,
    "eur_m2": 14.42,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-20T14:33:08+00:00"
   },
   {
@@ -690,7 +842,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 8.1,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-19T14:52:15+00:00"
   },
   {
@@ -728,7 +880,7 @@
    "contact": "Bureau d'Affaires F. Lacroix sprl",
    "pro": true,
    "eur_m2": 11.57,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-19T14:52:15+00:00"
   },
   {
@@ -766,7 +918,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 16.25,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-19T14:52:15+00:00"
   },
   {
@@ -804,7 +956,7 @@
    "contact": "Immobilière de la Bruyere",
    "pro": true,
    "eur_m2": 9.0,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-18T14:45:26+00:00"
   },
   {
@@ -842,7 +994,7 @@
    "contact": "Welcome at Home",
    "pro": true,
    "eur_m2": 9.49,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:04+00:00",
    "vu_le_premier": "2026-11-18T14:45:26+00:00"
   },
   {
@@ -880,7 +1032,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 9.94,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:04+00:00",
    "vu_le_premier": "2026-11-18T14:45:26+00:00"
   },
   {
@@ -918,7 +1070,7 @@
    "contact": "ADK Immo",
    "pro": true,
    "eur_m2": 12.96,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:04+00:00",
    "vu_le_premier": "2026-11-18T14:45:17+00:00"
   },
   {
@@ -956,7 +1108,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 11.11,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-18T14:45:11+00:00"
   },
   {
@@ -1032,7 +1184,7 @@
    "contact": "Wafina Sprl",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-18T14:45:11+00:00"
   },
   {
@@ -1070,7 +1222,7 @@
    "contact": "Immobilière Ciccateri",
    "pro": true,
    "eur_m2": 19.24,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-18T14:45:05+00:00"
   },
   {
@@ -1108,7 +1260,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-18T14:45:05+00:00"
   },
   {
@@ -1146,7 +1298,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-18T14:45:04+00:00"
   },
   {
@@ -1222,7 +1374,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-21T13:51:46+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-17T15:06:23+00:00"
   },
   {
@@ -1260,7 +1412,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 8.77,
-   "vu_le": "2026-11-22T13:44:39+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-17T15:06:23+00:00"
   },
   {
@@ -1298,7 +1450,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 7.55,
-   "vu_le": "2026-11-22T13:44:39+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-17T15:06:23+00:00"
   },
   {
@@ -1336,7 +1488,7 @@
    "contact": "Immo Synergie",
    "pro": true,
    "eur_m2": 9.34,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-17T15:06:11+00:00"
   },
   {
@@ -1374,7 +1526,7 @@
    "contact": "Logéa Immobilière",
    "pro": true,
    "eur_m2": 14.55,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-17T15:06:04+00:00"
   },
   {
@@ -1488,7 +1640,7 @@
    "contact": "Home-Gestion SRL",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-17T15:06:03+00:00"
   },
   {
@@ -1526,7 +1678,7 @@
    "contact": "Immobilière de la Bruyere",
    "pro": true,
    "eur_m2": 13.5,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-11-16T14:13:53+00:00"
   },
   {
@@ -1602,7 +1754,7 @@
    "contact": "Liboy Lejeune & BR associés.",
    "pro": true,
    "eur_m2": 8.67,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-16T14:13:18+00:00"
   },
   {
@@ -1640,7 +1792,7 @@
    "contact": "Immobilière Crismer",
    "pro": true,
    "eur_m2": 8.39,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-14T12:40:56+00:00"
   },
   {
@@ -1678,7 +1830,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 13.75,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-14T12:40:56+00:00"
   },
   {
@@ -1716,7 +1868,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 14.17,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-14T12:40:49+00:00"
   },
   {
@@ -1754,14 +1906,14 @@
    "contact": "Immobilière Bertrand Huy",
    "pro": true,
    "eur_m2": 14.22,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-14T12:40:49+00:00"
   },
   {
-   "uid": "immoweb:3ef4ff54092a",
+   "uid": "immoweb:34f74ef87b0f",
    "source": "immoweb",
-   "titre": "Cap'Houses : Appartement",
-   "url": "https://www.immoweb.be/fr/annonce/21987658",
+   "titre": "Superbe appartement 2 ch avec parking et vue dégagée",
+   "url": "https://www.immoweb.be/fr/annonce/22003220",
    "loyer": 800.0,
    "charges": null,
    "charges_comprises": null,
@@ -1769,16 +1921,16 @@
    "pieces": null,
    "chambres": 2,
    "type_bien": "apartment",
-   "ville": "Rocourt",
+   "ville": "Liège",
    "code_postal": "4000",
    "quartier": "Liège",
    "province": "Liège",
-   "adresse": "Chemin Dupireux 20",
-   "lat": 50.679468,
-   "lon": 5.54469,
-   "etage": 1,
+   "adresse": "Rue Saint-Gilles 343",
+   "lat": 50.6336905,
+   "lon": 5.5531986,
+   "etage": 10,
    "balcon": null,
-   "parking": null,
+   "parking": true,
    "ascenseur": null,
    "meuble": null,
    "cave": null,
@@ -1789,10 +1941,10 @@
    "date_publication": null,
    "description": "",
    "photos": [],
-   "contact": "Cap'Houses",
+   "contact": "ELISSA Agence Immobilière",
    "pro": true,
    "eur_m2": 10.0,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-11-14T12:40:49+00:00"
   },
   {
@@ -1830,7 +1982,7 @@
    "contact": "VDV-Rent-Immo",
    "pro": true,
    "eur_m2": 9.94,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-11-13T13:36:00+00:00"
   },
   {
@@ -1868,7 +2020,7 @@
    "contact": "ADK Immo",
    "pro": true,
    "eur_m2": 8.33,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-13T13:35:53+00:00"
   },
   {
@@ -1982,7 +2134,7 @@
    "contact": "Bureau Nelis",
    "pro": true,
    "eur_m2": 7.38,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-11-13T13:35:24+00:00"
   },
   {
@@ -2020,7 +2172,7 @@
    "contact": "Trevi Rasquain",
    "pro": true,
    "eur_m2": 9.26,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-12T14:12:20+00:00"
   },
   {
@@ -2058,7 +2210,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 9.29,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-12T14:12:20+00:00"
   },
   {
@@ -2134,7 +2286,7 @@
    "contact": "SKYIMMO",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-12T14:11:52+00:00"
   },
   {
@@ -2172,7 +2324,7 @@
    "contact": "My Altior Real Estate",
    "pro": true,
    "eur_m2": 10.54,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-12T14:11:52+00:00"
   },
   {
@@ -2210,7 +2362,7 @@
    "contact": "Liboy Lejeune & BR associés.",
    "pro": true,
    "eur_m2": 13.75,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-12T14:11:52+00:00"
   },
   {
@@ -2248,7 +2400,7 @@
    "contact": "ERA Labelimmo",
    "pro": true,
    "eur_m2": 12.16,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-11T13:09:00+00:00"
   },
   {
@@ -2286,7 +2438,7 @@
    "contact": "VICINITY",
    "pro": true,
    "eur_m2": 15.95,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-11T13:09:00+00:00"
   },
   {
@@ -2324,7 +2476,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": 11.48,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-11T13:08:38+00:00"
   },
   {
@@ -2362,7 +2514,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 12.0,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-11-11T13:08:30+00:00"
   },
   {
@@ -2400,7 +2552,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-10T13:55:40+00:00"
   },
   {
@@ -2438,7 +2590,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": 16.22,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-10T13:55:40+00:00"
   },
   {
@@ -2476,7 +2628,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 8.57,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-10T13:55:40+00:00"
   },
   {
@@ -2514,7 +2666,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 10.11,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-10T13:55:17+00:00"
   },
   {
@@ -2552,7 +2704,7 @@
    "contact": "ELISSA Agence Immobilière",
    "pro": true,
    "eur_m2": 8.33,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-10T13:55:17+00:00"
   },
   {
@@ -2590,7 +2742,7 @@
    "contact": "Avimmo",
    "pro": true,
    "eur_m2": 9.5,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-10T13:55:10+00:00"
   },
   {
@@ -2628,7 +2780,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 9.89,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-09T14:38:40+00:00"
   },
   {
@@ -2704,7 +2856,7 @@
    "contact": "Bureau Nelis",
    "pro": true,
    "eur_m2": 8.26,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-09T14:38:40+00:00"
   },
   {
@@ -2742,7 +2894,7 @@
    "contact": "La Signature - Rocourt et Embourg",
    "pro": true,
    "eur_m2": 7.67,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-11-09T14:38:10+00:00"
   },
   {
@@ -2780,7 +2932,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 9.08,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-11-09T14:38:10+00:00"
   },
   {
@@ -2818,7 +2970,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 12.7,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-07T12:03:31+00:00"
   },
   {
@@ -2856,7 +3008,7 @@
    "contact": "I.D.T sprl",
    "pro": true,
    "eur_m2": 8.76,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-07T12:03:31+00:00"
   },
   {
@@ -2894,29 +3046,29 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-07T12:03:31+00:00"
   },
   {
-   "uid": "immoweb:c657074a176c",
+   "uid": "immoweb:457f87044808",
    "source": "immoweb",
-   "titre": "Appartement deux chambres dans l'écoquartier des Guillemins",
-   "url": "https://www.immoweb.be/fr/annonce/21973037",
+   "titre": "BELLE MAISON 3 CHAMBRES",
+   "url": "https://www.immoweb.be/fr/annonce/22008932",
    "loyer": 1100.0,
    "charges": null,
    "charges_comprises": null,
    "surface": null,
-   "pieces": 2,
-   "chambres": 2,
-   "type_bien": "apartment",
+   "pieces": null,
+   "chambres": 3,
+   "type_bien": "house",
    "ville": "Liège",
    "code_postal": "4000",
    "quartier": "Liège",
    "province": "Liège",
-   "adresse": "Allée Konrad Adenauer 13.3",
-   "lat": 50.63507569999999,
-   "lon": 5.5628874,
-   "etage": 3,
+   "adresse": "Rue Arbre sainte barbe 433",
+   "lat": 50.6831786,
+   "lon": 5.5578164,
+   "etage": null,
    "balcon": null,
    "parking": null,
    "ascenseur": null,
@@ -2929,17 +3081,17 @@
    "date_publication": null,
    "description": "",
    "photos": [],
-   "contact": "Inforim",
+   "contact": "Groupe CADimmo",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-07T12:03:24+00:00"
   },
   {
-   "uid": "immoweb:6c4627b56191",
+   "uid": "immoweb:31e7a5565229",
    "source": "immoweb",
    "titre": "Appartement deux chambres dans l'écoquartier des Guillemins",
-   "url": "https://www.immoweb.be/fr/annonce/21973033",
+   "url": "https://www.immoweb.be/fr/annonce/21980921",
    "loyer": 1050.0,
    "charges": null,
    "charges_comprises": null,
@@ -2970,7 +3122,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-07T12:03:15+00:00"
   },
   {
@@ -3008,7 +3160,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-11-07T12:03:15+00:00"
   },
   {
@@ -3046,7 +3198,7 @@
    "contact": "5 sur 5 Immobilier",
    "pro": true,
    "eur_m2": 15.49,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-07T12:03:15+00:00"
   },
   {
@@ -3084,7 +3236,7 @@
    "contact": "SCHMIDTIMMO",
    "pro": true,
    "eur_m2": 9.08,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-11-07T12:03:15+00:00"
   },
   {
@@ -3122,7 +3274,7 @@
    "contact": "VICINITY",
    "pro": true,
    "eur_m2": 14.44,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-11-07T12:03:15+00:00"
   },
   {
@@ -3160,7 +3312,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-07T12:03:09+00:00"
   },
   {
@@ -3198,7 +3350,7 @@
    "contact": "SODIMO SA",
    "pro": true,
    "eur_m2": 7.95,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-11-07T12:03:01+00:00"
   },
   {
@@ -3236,7 +3388,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 8.42,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-06T13:25:21+00:00"
   },
   {
@@ -3274,7 +3426,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 10.17,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-06T13:24:58+00:00"
   },
   {
@@ -3312,7 +3464,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-11-05T13:40:52+00:00"
   },
   {
@@ -3350,7 +3502,7 @@
    "contact": "Groupe CADimmo",
    "pro": true,
    "eur_m2": 10.77,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-11-05T13:40:52+00:00"
   },
   {
@@ -3388,7 +3540,7 @@
    "contact": "ADK Immo",
    "pro": true,
    "eur_m2": 11.88,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-11-05T13:40:52+00:00"
   },
   {
@@ -3426,7 +3578,7 @@
    "contact": "Upstate - Réseau Immobilier",
    "pro": true,
    "eur_m2": 12.92,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-11-05T13:40:35+00:00"
   },
   {
@@ -3464,7 +3616,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 16.55,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:06+00:00",
    "vu_le_premier": "2026-11-04T13:26:46+00:00"
   },
   {
@@ -3502,7 +3654,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 9.91,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:06+00:00",
    "vu_le_premier": "2026-11-04T13:26:38+00:00"
   },
   {
@@ -3540,7 +3692,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 17.66,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:06+00:00",
    "vu_le_premier": "2026-11-04T13:26:29+00:00"
   },
   {
@@ -3578,7 +3730,7 @@
    "contact": "I.D.T sprl",
    "pro": true,
    "eur_m2": 9.58,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:06+00:00",
    "vu_le_premier": "2026-11-04T13:26:29+00:00"
   },
   {
@@ -3692,7 +3844,7 @@
    "contact": "PICARD immo",
    "pro": true,
    "eur_m2": 16.09,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-04T13:26:24+00:00"
   },
   {
@@ -3806,7 +3958,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 8.95,
-   "vu_le": "2026-11-22T13:44:40+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-11-03T13:12:40+00:00"
   },
   {
@@ -3882,7 +4034,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 9.21,
-   "vu_le": "2026-11-22T13:44:40+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-11-03T13:12:40+00:00"
   },
   {
@@ -3958,7 +4110,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": 13.16,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-11-03T13:12:40+00:00"
   },
   {
@@ -4148,7 +4300,7 @@
    "contact": "ACCORD IMMO",
    "pro": true,
    "eur_m2": 10.31,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-03T13:12:29+00:00"
   },
   {
@@ -4186,7 +4338,7 @@
    "contact": "Liboy Lejeune & BR associés.",
    "pro": true,
    "eur_m2": 9.04,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-11-03T13:12:29+00:00"
   },
   {
@@ -4300,7 +4452,7 @@
    "contact": "RED sa",
    "pro": true,
    "eur_m2": 13.93,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-11-02T14:07:11+00:00"
   },
   {
@@ -4376,7 +4528,7 @@
    "contact": "Home-Gestion SRL",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-11-02T14:06:54+00:00"
   },
   {
@@ -4414,7 +4566,7 @@
    "contact": "SKYIMMO",
    "pro": true,
    "eur_m2": 5.82,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-11-02T14:06:40+00:00"
   },
   {
@@ -4528,7 +4680,7 @@
    "contact": "Upstate - Réseau Immobilier",
    "pro": true,
    "eur_m2": 15.0,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-10-31T11:23:28+00:00"
   },
   {
@@ -4566,7 +4718,7 @@
    "contact": "Artemis Immobilier",
    "pro": true,
    "eur_m2": 7.79,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:27+00:00",
    "vu_le_premier": "2026-10-31T11:23:06+00:00"
   },
   {
@@ -4604,7 +4756,7 @@
    "contact": "Upstate - Réseau Immobilier",
    "pro": true,
    "eur_m2": 14.04,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-10-31T11:23:06+00:00"
   },
   {
@@ -4718,7 +4870,7 @@
    "contact": "JNP Immobilier",
    "pro": true,
    "eur_m2": 13.54,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-10-30T11:49:41+00:00"
   },
   {
@@ -4794,7 +4946,7 @@
    "contact": "sprl Immo VSM",
    "pro": true,
    "eur_m2": 17.54,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-30T11:49:41+00:00"
   },
   {
@@ -4832,7 +4984,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 16.96,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-30T11:49:13+00:00"
   },
   {
@@ -4870,7 +5022,7 @@
    "contact": "AG Immobilière S.R.L.",
    "pro": true,
    "eur_m2": 7.98,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-10-29T11:55:40+00:00"
   },
   {
@@ -4908,7 +5060,7 @@
    "contact": "Immobilière Crismer",
    "pro": true,
    "eur_m2": 8.48,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-29T11:55:40+00:00"
   },
   {
@@ -4984,7 +5136,7 @@
    "contact": "Home Invest Belgium sa",
    "pro": true,
    "eur_m2": 11.6,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-29T11:55:40+00:00"
   },
   {
@@ -5022,7 +5174,7 @@
    "contact": "Liboy Lejeune & BR associés.",
    "pro": true,
    "eur_m2": 11.29,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-29T11:55:39+00:00"
   },
   {
@@ -5136,7 +5288,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-10-28T11:48:06+00:00"
   },
   {
@@ -5288,7 +5440,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 11.27,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-10-28T11:47:56+00:00"
   },
   {
@@ -5326,7 +5478,7 @@
    "contact": "ACCORD IMMO",
    "pro": true,
    "eur_m2": 8.99,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-28T11:47:56+00:00"
   },
   {
@@ -5402,7 +5554,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 8.71,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-28T11:47:51+00:00"
   },
   {
@@ -5630,7 +5782,7 @@
    "contact": "We Invest Liège",
    "pro": true,
    "eur_m2": 21.25,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-27T11:13:40+00:00"
   },
   {
@@ -5668,7 +5820,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 8.46,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-27T11:13:40+00:00"
   },
   {
@@ -5820,7 +5972,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-27T11:13:39+00:00"
   },
   {
@@ -5934,7 +6086,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 12.65,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-10-27T11:13:36+00:00"
   },
   {
@@ -5972,7 +6124,7 @@
    "contact": "Immobilière de la Bruyere",
    "pro": true,
    "eur_m2": 10.95,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-10-26T11:49:23+00:00"
   },
   {
@@ -6010,7 +6162,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-10-26T11:48:33+00:00"
   },
   {
@@ -6048,7 +6200,7 @@
    "contact": "ADK Immo",
    "pro": true,
    "eur_m2": 12.98,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-26T11:48:21+00:00"
   },
   {
@@ -6086,7 +6238,7 @@
    "contact": "Upstate - Réseau Immobilier",
    "pro": true,
    "eur_m2": 23.42,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-10-24T09:57:18+00:00"
   },
   {
@@ -6124,7 +6276,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 7.9,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-24T09:57:18+00:00"
   },
   {
@@ -6162,7 +6314,7 @@
    "contact": "SKYIMMO",
    "pro": true,
    "eur_m2": 12.96,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-10-24T09:57:17+00:00"
   },
   {
@@ -6200,7 +6352,7 @@
    "contact": "Immobilière Bertholome",
    "pro": true,
    "eur_m2": 16.9,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:04+00:00",
    "vu_le_premier": "2026-10-24T09:57:17+00:00"
   },
   {
@@ -6238,7 +6390,7 @@
    "contact": "L’ATELIER IMMO",
    "pro": true,
    "eur_m2": 10.0,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-24T09:57:17+00:00"
   },
   {
@@ -6276,7 +6428,7 @@
    "contact": "ERA Labelimmo",
    "pro": true,
    "eur_m2": 10.63,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-10-24T09:57:15+00:00"
   },
   {
@@ -6314,7 +6466,7 @@
    "contact": "IGIMMO",
    "pro": true,
    "eur_m2": 8.56,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-10-24T09:57:14+00:00"
   },
   {
@@ -6466,7 +6618,7 @@
    "contact": "OPTIMUM",
    "pro": true,
    "eur_m2": 8.75,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-23T10:40:27+00:00"
   },
   {
@@ -6580,7 +6732,7 @@
    "contact": "PICARD immo",
    "pro": true,
    "eur_m2": 16.3,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-22T10:48:21+00:00"
   },
   {
@@ -6808,7 +6960,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-21T10:47:19+00:00"
   },
   {
@@ -6846,7 +6998,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 6.63,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-21T10:47:19+00:00"
   },
   {
@@ -6884,7 +7036,7 @@
    "contact": "IMMEXPERTS",
    "pro": true,
    "eur_m2": 11.33,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-21T10:47:17+00:00"
   },
   {
@@ -6960,7 +7112,7 @@
    "contact": "La Signature - Rocourt et Embourg",
    "pro": true,
    "eur_m2": 10.42,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-10-21T10:47:15+00:00"
   },
   {
@@ -7074,7 +7226,7 @@
    "contact": "We Invest Liège",
    "pro": true,
    "eur_m2": 11.7,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-20T10:35:26+00:00"
   },
   {
@@ -7150,7 +7302,7 @@
    "contact": "Engel & Völkers Liège",
    "pro": true,
    "eur_m2": 13.89,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-20T10:35:26+00:00"
   },
   {
@@ -7188,7 +7340,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 10.13,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-20T10:35:26+00:00"
   },
   {
@@ -7226,7 +7378,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 8.0,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-20T10:35:26+00:00"
   },
   {
@@ -7264,7 +7416,7 @@
    "contact": "Immo Synergie",
    "pro": true,
    "eur_m2": 14.88,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-20T10:35:24+00:00"
   },
   {
@@ -7302,7 +7454,7 @@
    "contact": "Immo Synergie",
    "pro": true,
    "eur_m2": 10.84,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-20T10:35:24+00:00"
   },
   {
@@ -7340,7 +7492,7 @@
    "contact": "Avimmo",
    "pro": true,
    "eur_m2": 11.52,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-20T10:35:24+00:00"
   },
   {
@@ -7454,7 +7606,7 @@
    "contact": "I.D.T sprl",
    "pro": true,
    "eur_m2": 7.6,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-19T11:29:12+00:00"
   },
   {
@@ -7492,7 +7644,7 @@
    "contact": "5 sur 5 Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-10-19T11:29:10+00:00"
   },
   {
@@ -7758,7 +7910,7 @@
    "contact": "DOR & BLEUS Immobilier",
    "pro": true,
    "eur_m2": 9.06,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-16T10:18:40+00:00"
   },
   {
@@ -7796,7 +7948,7 @@
    "contact": "Carine Conti",
    "pro": true,
    "eur_m2": 12.6,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-16T10:18:40+00:00"
   },
   {
@@ -8024,7 +8176,7 @@
    "contact": "Bureau Nelis",
    "pro": true,
    "eur_m2": 12.5,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:07+00:00",
    "vu_le_premier": "2026-10-15T10:31:13+00:00"
   },
   {
@@ -8100,7 +8252,7 @@
    "contact": "DOR & BLEUS Immobilier",
    "pro": true,
    "eur_m2": 15.61,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:07+00:00",
    "vu_le_premier": "2026-10-15T10:31:12+00:00"
   },
   {
@@ -8214,7 +8366,7 @@
    "contact": "IMMOCUBE srl",
    "pro": true,
    "eur_m2": 9.49,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-10-15T10:31:09+00:00"
   },
   {
@@ -8252,7 +8404,7 @@
    "contact": "Avimmo",
    "pro": true,
    "eur_m2": 10.39,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-10-15T10:31:09+00:00"
   },
   {
@@ -8290,7 +8442,7 @@
    "contact": "Avimmo",
    "pro": true,
    "eur_m2": 9.88,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-10-15T10:31:09+00:00"
   },
   {
@@ -8442,7 +8594,7 @@
    "contact": "Ismaïl Arrache Agence Immobilière",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-02T14:06:32+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-10-15T10:31:09+00:00"
   },
   {
@@ -8594,7 +8746,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 11.33,
-   "vu_le": "2026-11-22T13:44:42+00:00",
+   "vu_le": "2026-11-23T16:46:07+00:00",
    "vu_le_premier": "2026-10-13T13:07:36+00:00"
   },
   {
@@ -8636,10 +8788,10 @@
    "vu_le_premier": "2026-10-13T13:07:36+00:00"
   },
   {
-   "uid": "immoweb:4c01e7fbf8a9",
+   "uid": "immoweb:ff5d51bab473",
    "source": "immoweb",
    "titre": "Penthouse lumineux avec 2 terrasses - Liège",
-   "url": "https://www.immoweb.be/fr/annonce/21908209",
+   "url": "https://www.immoweb.be/fr/annonce/22010129",
    "loyer": 900.0,
    "charges": null,
    "charges_comprises": null,
@@ -8670,7 +8822,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": 11.11,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-10-13T13:07:36+00:00"
   },
   {
@@ -8974,7 +9126,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 13.75,
-   "vu_le": "2026-11-22T13:44:40+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-12T13:48:57+00:00"
   },
   {
@@ -9012,7 +9164,7 @@
    "contact": "VAL IMMOBILIERE",
    "pro": true,
    "eur_m2": 16.89,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-12T13:48:57+00:00"
   },
   {
@@ -9164,7 +9316,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 11.9,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-12T13:48:55+00:00"
   },
   {
@@ -9240,7 +9392,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-12T13:48:55+00:00"
   },
   {
@@ -9278,7 +9430,7 @@
    "contact": "AG Immobilière S.R.L.",
    "pro": true,
    "eur_m2": 10.83,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-12T13:48:55+00:00"
   },
   {
@@ -9430,7 +9582,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 9.73,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-10T11:32:17+00:00"
   },
   {
@@ -9468,14 +9620,14 @@
    "contact": "VICINITY",
    "pro": true,
    "eur_m2": 12.09,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-10T11:32:17+00:00"
   },
   {
-   "uid": "immoweb:df9f5388700b",
+   "uid": "immoweb:dd27d5596035",
    "source": "immoweb",
    "titre": "Guillemins - Bel appartement avec terrasse au 4ème étage",
-   "url": "https://www.immoweb.be/fr/annonce/21904116",
+   "url": "https://www.immoweb.be/fr/annonce/21996172",
    "loyer": 1050.0,
    "charges": null,
    "charges_comprises": null,
@@ -9506,7 +9658,7 @@
    "contact": "VICINITY",
    "pro": true,
    "eur_m2": 13.29,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:04+00:00",
    "vu_le_premier": "2026-10-10T11:32:17+00:00"
   },
   {
@@ -9696,7 +9848,7 @@
    "contact": "Immobilière Ciccateri",
    "pro": true,
    "eur_m2": 8.59,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-09T12:14:33+00:00"
   },
   {
@@ -9772,7 +9924,7 @@
    "contact": "RED sa",
    "pro": true,
    "eur_m2": 16.67,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-10-08T12:26:25+00:00"
   },
   {
@@ -9886,7 +10038,7 @@
    "contact": "ADK Immo",
    "pro": true,
    "eur_m2": 11.96,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-08T12:25:27+00:00"
   },
   {
@@ -9962,7 +10114,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 11.93,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-08T12:25:26+00:00"
   },
   {
@@ -10000,7 +10152,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": 11.25,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-08T12:25:26+00:00"
   },
   {
@@ -10038,7 +10190,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-10-08T12:25:26+00:00"
   },
   {
@@ -10076,7 +10228,7 @@
    "contact": "We Invest Liège",
    "pro": true,
    "eur_m2": 8.79,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-08T12:25:26+00:00"
   },
   {
@@ -10114,7 +10266,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 28.33,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-08T12:25:26+00:00"
   },
   {
@@ -10152,7 +10304,7 @@
    "contact": "Covivia Immo",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-10-08T12:25:24+00:00"
   },
   {
@@ -10266,7 +10418,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-10-07T12:15:21+00:00"
   },
   {
@@ -10304,7 +10456,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-10-07T12:15:21+00:00"
   },
   {
@@ -10342,7 +10494,7 @@
    "contact": "NW immobilier",
    "pro": true,
    "eur_m2": 11.01,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-07T12:15:20+00:00"
   },
   {
@@ -10380,7 +10532,7 @@
    "contact": "Immobilière Bertrand Huy",
    "pro": true,
    "eur_m2": 10.65,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-10-06T12:23:41+00:00"
   },
   {
@@ -10456,45 +10608,7 @@
    "contact": "SKYIMMO",
    "pro": true,
    "eur_m2": 9.17,
-   "vu_le": "2026-11-22T13:45:10+00:00",
-   "vu_le_premier": "2026-10-06T12:22:41+00:00"
-  },
-  {
-   "uid": "immoweb:f0e56ca9ab94",
-   "source": "immoweb",
-   "titre": "Guillemins - PEB A - Terrasse ensoleillée",
-   "url": "https://www.immoweb.be/fr/annonce/21893114",
-   "loyer": 1175.0,
-   "charges": null,
-   "charges_comprises": null,
-   "surface": 90,
-   "pieces": 6,
-   "chambres": 2,
-   "type_bien": "apartment",
-   "ville": "Liège",
-   "code_postal": "4000",
-   "quartier": "Liège",
-   "province": "Liège",
-   "adresse": "Allée Konrad Adenauer 1",
-   "lat": 50.63507569999999,
-   "lon": 5.5628874,
-   "etage": 3,
-   "balcon": true,
-   "parking": null,
-   "ascenseur": null,
-   "meuble": null,
-   "cave": null,
-   "colocation": false,
-   "dpe": null,
-   "depot_garantie": null,
-   "date_dispo": null,
-   "date_publication": null,
-   "description": "",
-   "photos": [],
-   "contact": "VICINITY",
-   "pro": true,
-   "eur_m2": 13.06,
-   "vu_le": "2026-10-09T12:15:21+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-06T12:22:41+00:00"
   },
   {
@@ -10570,7 +10684,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 10.34,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-06T12:22:41+00:00"
   },
   {
@@ -10684,7 +10798,7 @@
    "contact": "ELISSA Agence Immobilière",
    "pro": true,
    "eur_m2": 9.09,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-10-06T12:22:37+00:00"
   },
   {
@@ -10764,10 +10878,10 @@
    "vu_le_premier": "2026-10-05T12:57:00+00:00"
   },
   {
-   "uid": "immoweb:721fdf59347b",
+   "uid": "immoweb:b7ebe9615b01",
    "source": "immoweb",
    "titre": "Charmante maison 1 chambre avec jardinet",
-   "url": "https://www.immoweb.be/fr/annonce/21889171",
+   "url": "https://www.immoweb.be/fr/annonce/22012046",
    "loyer": 700.0,
    "charges": null,
    "charges_comprises": null,
@@ -10798,7 +10912,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 11.86,
-   "vu_le": "2026-10-29T11:56:11+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-10-05T12:57:00+00:00"
   },
   {
@@ -10912,7 +11026,7 @@
    "contact": "5 sur 5 Immobilier",
    "pro": true,
    "eur_m2": 13.83,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-05T12:56:50+00:00"
   },
   {
@@ -10988,7 +11102,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": 11.06,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-10-05T12:56:50+00:00"
   },
   {
@@ -11066,44 +11180,6 @@
    "eur_m2": 8.64,
    "vu_le": "2026-10-29T11:56:11+00:00",
    "vu_le_premier": "2026-10-03T10:47:07+00:00"
-  },
-  {
-   "uid": "immoweb:1d68120a69b2",
-   "source": "immoweb",
-   "titre": "Maison 2 chambres avec parking et jardin",
-   "url": "https://www.immoweb.be/fr/annonce/21886343",
-   "loyer": 890.0,
-   "charges": null,
-   "charges_comprises": null,
-   "surface": 91,
-   "pieces": null,
-   "chambres": 2,
-   "type_bien": "house",
-   "ville": "Liège",
-   "code_postal": "4000",
-   "quartier": "Liège",
-   "province": "Liège",
-   "adresse": "Rue du Fort de Loncin 24",
-   "lat": 50.6559764,
-   "lon": 5.5605172,
-   "etage": null,
-   "balcon": null,
-   "parking": true,
-   "ascenseur": null,
-   "meuble": null,
-   "cave": null,
-   "colocation": false,
-   "dpe": null,
-   "depot_garantie": null,
-   "date_dispo": null,
-   "date_publication": null,
-   "description": "",
-   "photos": [],
-   "contact": "A & H d'Affnay",
-   "pro": true,
-   "eur_m2": 9.78,
-   "vu_le": "2026-10-09T12:15:23+00:00",
-   "vu_le_premier": "2026-10-03T10:46:55+00:00"
   },
   {
    "uid": "immoweb:fc070ea19e9c",
@@ -11254,7 +11330,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 11.95,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-02T11:32:04+00:00"
   },
   {
@@ -11292,7 +11368,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 11.45,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-02T11:32:04+00:00"
   },
   {
@@ -11330,7 +11406,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 10.86,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-10-02T11:32:04+00:00"
   },
   {
@@ -11368,7 +11444,7 @@
    "contact": "Bureau Nelis",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-02T11:32:04+00:00"
   },
   {
@@ -11406,7 +11482,7 @@
    "contact": "Bureau Nelis",
    "pro": true,
    "eur_m2": 12.75,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-02T11:32:04+00:00"
   },
   {
@@ -11634,7 +11710,7 @@
    "contact": "Home Invest Belgium sa",
    "pro": true,
    "eur_m2": 11.0,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-10-01T12:00:09+00:00"
   },
   {
@@ -11938,7 +12014,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-09-30T11:31:49+00:00"
   },
   {
@@ -12508,7 +12584,7 @@
    "contact": "Century21Netimmo",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-09-28T12:17:00+00:00"
   },
   {
@@ -12660,7 +12736,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-09-28T12:17:00+00:00"
   },
   {
@@ -12964,7 +13040,7 @@
    "contact": "I.D.T sprl",
    "pro": true,
    "eur_m2": 18.94,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-09-26T10:28:20+00:00"
   },
   {
@@ -13082,44 +13158,6 @@
    "vu_le_premier": "2026-09-25T10:46:36+00:00"
   },
   {
-   "uid": "immoweb:ab3c90e84323",
-   "source": "immoweb",
-   "titre": "OPTION OPTION OPTION Superbe appartement avec terrasse et pa",
-   "url": "https://www.immoweb.be/fr/annonce/21866398",
-   "loyer": 815.0,
-   "charges": null,
-   "charges_comprises": null,
-   "surface": 71,
-   "pieces": null,
-   "chambres": 2,
-   "type_bien": "apartment",
-   "ville": "Grâce-Hollogne",
-   "code_postal": "4460",
-   "quartier": "Liège",
-   "province": "Liège",
-   "adresse": "Rue de l'Aqueduc 39",
-   "lat": 50.6295898,
-   "lon": 5.4907723,
-   "etage": 1,
-   "balcon": true,
-   "parking": null,
-   "ascenseur": null,
-   "meuble": null,
-   "cave": null,
-   "colocation": false,
-   "dpe": null,
-   "depot_garantie": null,
-   "date_dispo": null,
-   "date_publication": null,
-   "description": "",
-   "photos": [],
-   "contact": "TREVI LIEGE",
-   "pro": true,
-   "eur_m2": 11.48,
-   "vu_le": "2026-10-09T12:15:20+00:00",
-   "vu_le_premier": "2026-09-25T10:46:36+00:00"
-  },
-  {
    "uid": "immoweb:83fe7ad29d2b",
    "source": "immoweb",
    "titre": "Liège: maison 2 chambres avec terrasse et jardin!",
@@ -13230,7 +13268,7 @@
    "contact": "ERA Blavier - Liège",
    "pro": true,
    "eur_m2": 8.82,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-09-25T10:45:49+00:00"
   },
   {
@@ -13344,7 +13382,7 @@
    "contact": "Immobilière VANESSE : Oupeye (Vivegnis) - Visé",
    "pro": true,
    "eur_m2": 9.43,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-09-25T10:45:49+00:00"
   },
   {
@@ -13724,7 +13762,7 @@
    "contact": "Immobilière Bertrand Huy",
    "pro": true,
    "eur_m2": 13.08,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-09-24T10:42:50+00:00"
   },
   {
@@ -14446,7 +14484,7 @@
    "contact": "ELISSA Agence Immobilière",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-09-21T11:21:35+00:00"
   },
   {
@@ -14522,7 +14560,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 26.19,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-09-20T10:15:23+00:00"
   },
   {
@@ -14788,7 +14826,7 @@
    "contact": "Welcome at Home",
    "pro": true,
    "eur_m2": 9.75,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-09-17T10:36:22+00:00"
   },
   {
@@ -15054,7 +15092,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 10.11,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-09-15T10:38:26+00:00"
   },
   {
@@ -15130,7 +15168,7 @@
    "contact": "Artemis Immobilier",
    "pro": true,
    "eur_m2": 8.32,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-09-15T10:38:26+00:00"
   },
   {
@@ -15396,7 +15434,7 @@
    "contact": "We Invest Liège",
    "pro": true,
    "eur_m2": 11.25,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:06+00:00",
    "vu_le_premier": "2026-09-11T10:09:46+00:00"
   },
   {
@@ -15472,7 +15510,7 @@
    "contact": "ERA Labelimmo",
    "pro": true,
    "eur_m2": 9.57,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-09-11T10:09:37+00:00"
   },
   {
@@ -15548,7 +15586,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 11.43,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-09-10T10:13:34+00:00"
   },
   {
@@ -15662,7 +15700,7 @@
    "contact": "SOGEFIM",
    "pro": true,
    "eur_m2": 18.25,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-09-10T10:13:23+00:00"
   },
   {
@@ -15890,7 +15928,7 @@
    "contact": "ADK Immo",
    "pro": true,
    "eur_m2": 9.24,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-09-08T10:14:49+00:00"
   },
   {
@@ -16080,45 +16118,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 13.44,
-   "vu_le": "2026-11-22T13:45:03+00:00",
-   "vu_le_premier": "2026-09-07T10:58:13+00:00"
-  },
-  {
-   "uid": "immoweb:1beb92765123",
-   "source": "immoweb",
-   "titre": "Guillemins - Immeuble récent - Agréable terrasse ensoleillée",
-   "url": "https://www.immoweb.be/fr/annonce/21820594",
-   "loyer": 900.0,
-   "charges": null,
-   "charges_comprises": null,
-   "surface": 58,
-   "pieces": 5,
-   "chambres": 1,
-   "type_bien": "apartment",
-   "ville": "Liège",
-   "code_postal": "4000",
-   "quartier": "Liège",
-   "province": "Liège",
-   "adresse": "Allée Konrad Adenauer 1",
-   "lat": 50.63507569999999,
-   "lon": 5.5628874,
-   "etage": 3,
-   "balcon": true,
-   "parking": null,
-   "ascenseur": null,
-   "meuble": null,
-   "cave": null,
-   "colocation": false,
-   "dpe": null,
-   "depot_garantie": null,
-   "date_dispo": null,
-   "date_publication": null,
-   "description": "",
-   "photos": [],
-   "contact": "VICINITY",
-   "pro": true,
-   "eur_m2": 15.52,
-   "vu_le": "2026-10-09T12:15:27+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-09-07T10:58:13+00:00"
   },
   {
@@ -16232,7 +16232,7 @@
    "contact": "Immo Synergie",
    "pro": true,
    "eur_m2": 10.58,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-09-07T10:58:10+00:00"
   },
   {
@@ -16308,7 +16308,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 7.39,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-09-06T09:51:55+00:00"
   },
   {
@@ -16346,7 +16346,7 @@
    "contact": "Inforim",
    "pro": true,
    "eur_m2": 4.95,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-09-05T09:37:42+00:00"
   },
   {
@@ -16384,45 +16384,7 @@
    "contact": "ERA Labelimmo",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:03+00:00",
-   "vu_le_premier": "2026-09-05T09:36:56+00:00"
-  },
-  {
-   "uid": "immoweb:39ea97eb0e9f",
-   "source": "immoweb",
-   "titre": "Guillemins - Bel appartement avec terrasse au 4ème étage",
-   "url": "https://www.immoweb.be/fr/annonce/21816660",
-   "loyer": 1100.0,
-   "charges": null,
-   "charges_comprises": null,
-   "surface": 79,
-   "pieces": 6,
-   "chambres": 2,
-   "type_bien": "apartment",
-   "ville": "Liège",
-   "code_postal": "4000",
-   "quartier": "Liège",
-   "province": "Liège",
-   "adresse": "Allée Konrad Adenauer 2",
-   "lat": 50.63507569999999,
-   "lon": 5.5628874,
-   "etage": 4,
-   "balcon": true,
-   "parking": null,
-   "ascenseur": null,
-   "meuble": null,
-   "cave": null,
-   "colocation": false,
-   "dpe": null,
-   "depot_garantie": null,
-   "date_dispo": null,
-   "date_publication": null,
-   "description": "",
-   "photos": [],
-   "contact": "VICINITY",
-   "pro": true,
-   "eur_m2": 13.92,
-   "vu_le": "2026-10-09T12:15:27+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-09-05T09:36:56+00:00"
   },
   {
@@ -16460,7 +16422,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 13.19,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-09-05T09:36:56+00:00"
   },
   {
@@ -16536,7 +16498,7 @@
    "contact": "Casa Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-09-05T09:36:53+00:00"
   },
   {
@@ -16650,7 +16612,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 4.87,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-09-04T10:07:16+00:00"
   },
   {
@@ -16764,7 +16726,7 @@
    "contact": "Cap'Houses",
    "pro": true,
    "eur_m2": 9.09,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-09-03T10:19:07+00:00"
   },
   {
@@ -16802,7 +16764,7 @@
    "contact": "Immobilière Ciccateri",
    "pro": true,
    "eur_m2": 10.49,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-09-03T10:19:05+00:00"
   },
   {
@@ -16920,10 +16882,10 @@
    "vu_le_premier": "2026-09-01T10:42:47+00:00"
   },
   {
-   "uid": "immoweb:74694cb7c4fa",
+   "uid": "immoweb:4e3645118af5",
    "source": "immoweb",
    "titre": "APPARTEMENT 3 CHAMBRES - TERRASSE - GARAGE",
-   "url": "https://www.immoweb.be/fr/annonce/21954130",
+   "url": "https://www.immoweb.be/fr/annonce/22012407",
    "loyer": 1250.0,
    "charges": null,
    "charges_comprises": null,
@@ -16954,7 +16916,7 @@
    "contact": "SODIMO SA",
    "pro": true,
    "eur_m2": 7.58,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-09-01T10:42:47+00:00"
   },
   {
@@ -16992,7 +16954,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 14.71,
-   "vu_le": "2026-11-22T13:44:58+00:00",
+   "vu_le": "2026-11-23T16:46:13+00:00",
    "vu_le_premier": "2026-09-01T10:42:47+00:00"
   },
   {
@@ -17258,7 +17220,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 10.0,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-28T17:50:52+00:00"
   },
   {
@@ -17296,7 +17258,7 @@
    "contact": "RED sa",
    "pro": true,
    "eur_m2": 9.2,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-08-27T17:03:12+00:00"
   },
   {
@@ -17372,7 +17334,7 @@
    "contact": "Bureau d'Affaires F. Lacroix sprl",
    "pro": true,
    "eur_m2": 7.54,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-27T17:02:14+00:00"
   },
   {
@@ -17524,7 +17486,7 @@
    "contact": "La Signature - Rocourt et Embourg",
    "pro": true,
    "eur_m2": 7.5,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-08-27T17:02:10+00:00"
   },
   {
@@ -17904,7 +17866,7 @@
    "contact": "K INVEST",
    "pro": true,
    "eur_m2": 9.26,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-08-25T06:26:40+00:00"
   },
   {
@@ -18056,7 +18018,7 @@
    "contact": "SERELIO SRL",
    "pro": true,
    "eur_m2": 4.67,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:45:51+00:00",
    "vu_le_premier": "2026-08-23T06:22:09+00:00"
   },
   {
@@ -18094,7 +18056,7 @@
    "contact": "START-Immo",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-22T06:20:18+00:00"
   },
   {
@@ -18170,7 +18132,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-08-21T06:26:09+00:00"
   },
   {
@@ -18360,7 +18322,7 @@
    "contact": "SA SOLICO",
    "pro": true,
    "eur_m2": 10.0,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-20T06:25:39+00:00"
   },
   {
@@ -18550,7 +18512,7 @@
    "contact": "Foncium SPRL",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-19T06:24:35+00:00"
   },
   {
@@ -18588,7 +18550,7 @@
    "contact": "IMMO LIEGEOIS",
    "pro": true,
    "eur_m2": 12.22,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-08-19T06:24:34+00:00"
   },
   {
@@ -18626,7 +18588,7 @@
    "contact": "Wuidard Immo",
    "pro": true,
    "eur_m2": 4.97,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-08-18T06:24:41+00:00"
   },
   {
@@ -18664,7 +18626,7 @@
    "contact": "Bureau Nelis",
    "pro": true,
    "eur_m2": 9.26,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-08-18T06:24:28+00:00"
   },
   {
@@ -18740,7 +18702,7 @@
    "contact": "Carine Conti",
    "pro": true,
    "eur_m2": 9.75,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-08-18T06:23:52+00:00"
   },
   {
@@ -18816,7 +18778,7 @@
    "contact": "RED sa",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-08-16T19:10:11+00:00"
   },
   {
@@ -19652,7 +19614,7 @@
    "contact": "Immobilière Bertholome",
    "pro": true,
    "eur_m2": 7.19,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:27+00:00",
    "vu_le_premier": "2026-08-16T19:09:23+00:00"
   },
   {
@@ -19690,7 +19652,7 @@
    "contact": "Immobilière Bertholome",
    "pro": true,
    "eur_m2": 11.83,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:27+00:00",
    "vu_le_premier": "2026-08-16T19:09:23+00:00"
   },
   {
@@ -19728,7 +19690,7 @@
    "contact": "Home-Gestion SRL",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-08-16T19:09:23+00:00"
   },
   {
@@ -19766,7 +19728,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-08-16T19:09:23+00:00"
   },
   {
@@ -19842,7 +19804,7 @@
    "contact": "SA SOLICO",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:39+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -19880,7 +19842,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -19918,7 +19880,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -19956,7 +19918,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -19994,7 +19956,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -20032,7 +19994,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -20070,7 +20032,7 @@
    "contact": "IKOAB",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:15+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -20184,7 +20146,7 @@
    "contact": "ACCORD IMMO",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:27+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -20260,7 +20222,7 @@
    "contact": "START-Immo",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:27+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -20298,7 +20260,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 12.0,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -20336,7 +20298,7 @@
    "contact": "SOGEFIM",
    "pro": true,
    "eur_m2": 20.62,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:27+00:00",
    "vu_le_premier": "2026-08-16T19:09:21+00:00"
   },
   {
@@ -20450,7 +20412,7 @@
    "contact": "My Altior Real Estate",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:43+00:00",
+   "vu_le": "2026-11-23T16:46:09+00:00",
    "vu_le_premier": "2026-08-16T19:09:19+00:00"
   },
   {
@@ -20488,7 +20450,7 @@
    "contact": "ECO-IMMO",
    "pro": true,
    "eur_m2": 19.23,
-   "vu_le": "2026-11-22T13:44:42+00:00",
+   "vu_le": "2026-11-23T16:46:07+00:00",
    "vu_le_premier": "2026-08-16T19:09:19+00:00"
   },
   {
@@ -20526,7 +20488,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 12.22,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-16T19:09:19+00:00"
   },
   {
@@ -20564,7 +20526,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 9.28,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-16T19:09:19+00:00"
   },
   {
@@ -20602,7 +20564,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": 12.58,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-16T19:09:19+00:00"
   },
   {
@@ -20716,7 +20678,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 11.88,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:27+00:00",
    "vu_le_premier": "2026-08-16T19:09:17+00:00"
   },
   {
@@ -20754,7 +20716,7 @@
    "contact": "K-ZA REAL ESTATE",
    "pro": true,
    "eur_m2": 12.86,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-08-16T19:09:17+00:00"
   },
   {
@@ -20792,7 +20754,7 @@
    "contact": "A & H d'Affnay",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:40+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-08-16T19:09:17+00:00"
   },
   {
@@ -20830,7 +20792,7 @@
    "contact": "Mirror Immobilier",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:01+00:00",
+   "vu_le": "2026-11-23T16:46:16+00:00",
    "vu_le_premier": "2026-08-16T19:09:17+00:00"
   },
   {
@@ -20868,14 +20830,14 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:43+00:00",
+   "vu_le": "2026-11-23T16:46:09+00:00",
    "vu_le_premier": "2026-08-16T19:09:17+00:00"
   },
   {
-   "uid": "immoweb:13a36a5ab8b0",
+   "uid": "immoweb:d54a0cc19f1a",
    "source": "immoweb",
    "titre": "Super studio dans résidence estudiantine",
-   "url": "https://www.immoweb.be/fr/annonce/21685824",
+   "url": "https://www.immoweb.be/fr/annonce/22010590",
    "loyer": 495.0,
    "charges": null,
    "charges_comprises": null,
@@ -20887,9 +20849,9 @@
    "code_postal": "4000",
    "quartier": "Liège",
    "province": "Liège",
-   "adresse": null,
-   "lat": null,
-   "lon": null,
+   "adresse": "Boulevard de la Sauvenière 92",
+   "lat": 50.64329739999999,
+   "lon": 5.565569099999999,
    "etage": 0,
    "balcon": null,
    "parking": null,
@@ -20906,7 +20868,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 16.5,
-   "vu_le": "2026-11-12T14:12:17+00:00",
+   "vu_le": "2026-11-23T16:46:21+00:00",
    "vu_le_premier": "2026-08-16T19:09:17+00:00"
   },
   {
@@ -20944,7 +20906,7 @@
    "contact": "IGG Immo",
    "pro": true,
    "eur_m2": 10.56,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-08-16T19:09:17+00:00"
   },
   {
@@ -20982,7 +20944,7 @@
    "contact": "SOGEFIM",
    "pro": true,
    "eur_m2": 11.89,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21058,7 +21020,7 @@
    "contact": "BLACKREIT MANAGEMENT",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21134,7 +21096,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 14.02,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21172,7 +21134,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 18.78,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21210,7 +21172,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 18.44,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21248,21 +21210,21 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 21.92,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
-   "uid": "immoweb:5ae735a0a46b",
+   "uid": "immoweb:d57db7a7f0d1",
    "source": "immoweb",
-   "titre": "RÉSERVÉ AUX ÉTUDIANTS",
-   "url": "https://www.immoweb.be/fr/annonce/22006833",
+   "titre": "UNIQUEMENT POUR ETUDIANT/ ONLY STUDENT!",
+   "url": "https://www.immoweb.be/fr/annonce/21728232",
    "loyer": 510.0,
    "charges": null,
    "charges_comprises": null,
    "surface": 21,
-   "pieces": 2,
+   "pieces": null,
    "chambres": 1,
-   "type_bien": "kot",
+   "type_bien": "flat studio",
    "ville": "Liège",
    "code_postal": "4000",
    "quartier": "Liège",
@@ -21270,7 +21232,7 @@
    "adresse": "Rue de l'Université 30",
    "lat": 50.6416797,
    "lon": 5.5736441,
-   "etage": 1,
+   "etage": 0,
    "balcon": null,
    "parking": null,
    "ascenseur": null,
@@ -21283,10 +21245,10 @@
    "date_publication": null,
    "description": "",
    "photos": [],
-   "contact": "Zabra Real Estate",
+   "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 24.29,
-   "vu_le": "2026-11-22T13:45:05+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21324,7 +21286,7 @@
    "contact": "Easy Estate",
    "pro": true,
    "eur_m2": 11.2,
-   "vu_le": "2026-11-21T13:51:50+00:00",
+   "vu_le": "2026-11-23T16:46:09+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21400,7 +21362,7 @@
    "contact": "Bureau Nelis",
    "pro": true,
    "eur_m2": 17.17,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21438,7 +21400,7 @@
    "contact": "PRIVILINVEST",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:43+00:00",
+   "vu_le": "2026-11-23T16:46:09+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21514,7 +21476,7 @@
    "contact": "BLACKREIT MANAGEMENT",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:43+00:00",
+   "vu_le": "2026-11-23T16:46:09+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21552,7 +21514,7 @@
    "contact": "ELISSA Agence Immobilière",
    "pro": true,
    "eur_m2": 13.75,
-   "vu_le": "2026-11-22T13:45:07+00:00",
+   "vu_le": "2026-11-23T16:46:22+00:00",
    "vu_le_premier": "2026-08-16T19:09:16+00:00"
   },
   {
@@ -21590,7 +21552,7 @@
    "contact": "Stoler Immo",
    "pro": true,
    "eur_m2": 9.44,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-08-16T19:09:14+00:00"
   },
   {
@@ -21704,7 +21666,7 @@
    "contact": "Mauro Immobilier",
    "pro": true,
    "eur_m2": 8.91,
-   "vu_le": "2026-11-22T13:44:40+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-08-16T19:09:14+00:00"
   },
   {
@@ -21780,7 +21742,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-08-16T19:09:14+00:00"
   },
   {
@@ -21818,7 +21780,7 @@
    "contact": "Partenaire Immobilier SPRL",
    "pro": true,
    "eur_m2": 7.92,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:14+00:00"
   },
   {
@@ -21856,7 +21818,7 @@
    "contact": "IGG Immo",
    "pro": true,
    "eur_m2": 14.12,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:14+00:00"
   },
   {
@@ -21970,7 +21932,7 @@
    "contact": "ELISSA Agence Immobilière",
    "pro": true,
    "eur_m2": 7.35,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-16T19:09:13+00:00"
   },
   {
@@ -22008,7 +21970,7 @@
    "contact": "Liboy Lejeune & BR associés.",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:13+00:00"
   },
   {
@@ -22046,7 +22008,7 @@
    "contact": "Immo 21",
    "pro": true,
    "eur_m2": 12.83,
-   "vu_le": "2026-11-22T13:45:03+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:13+00:00"
   },
   {
@@ -22160,7 +22122,7 @@
    "contact": "Engel & Völkers Liège",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:44:42+00:00",
+   "vu_le": "2026-11-23T16:46:07+00:00",
    "vu_le_premier": "2026-08-16T19:09:13+00:00"
   },
   {
@@ -22274,51 +22236,13 @@
    "contact": "I.D.T sprl",
    "pro": true,
    "eur_m2": 9.0,
-   "vu_le": "2026-11-22T13:45:03+00:00",
-   "vu_le_premier": "2026-08-16T19:09:13+00:00"
-  },
-  {
-   "uid": "immoweb:c36a20145948",
-   "source": "immoweb",
-   "titre": "Guillemins - Immeuble récent - Terrasse ensoleillée",
-   "url": "https://www.immoweb.be/fr/annonce/21753894",
-   "loyer": 1200.0,
-   "charges": null,
-   "charges_comprises": null,
-   "surface": 90,
-   "pieces": 6,
-   "chambres": 2,
-   "type_bien": "apartment",
-   "ville": "Liège",
-   "code_postal": "4000",
-   "quartier": "Liège",
-   "province": "Liège",
-   "adresse": "Allée Konrad Adenauer 1",
-   "lat": 50.63507569999999,
-   "lon": 5.5628874,
-   "etage": 5,
-   "balcon": true,
-   "parking": null,
-   "ascenseur": null,
-   "meuble": null,
-   "cave": null,
-   "colocation": false,
-   "dpe": null,
-   "depot_garantie": null,
-   "date_dispo": null,
-   "date_publication": null,
-   "description": "",
-   "photos": [],
-   "contact": "VICINITY",
-   "pro": true,
-   "eur_m2": 13.33,
-   "vu_le": "2026-10-09T12:15:29+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:13+00:00"
   },
   {
    "uid": "immoweb:d175178e70ee",
    "source": "immoweb",
-   "titre": "Très bel appartement en plein centre-ville",
+   "titre": "LOUE ! Très bel appartement en plein centre-ville",
    "url": "https://www.immoweb.be/fr/annonce/21952146",
    "loyer": 1150.0,
    "charges": null,
@@ -22350,7 +22274,7 @@
    "contact": "Bourse Gestion Immobilière",
    "pro": true,
    "eur_m2": 10.45,
-   "vu_le": "2026-11-22T13:45:08+00:00",
+   "vu_le": "2026-11-23T16:46:24+00:00",
    "vu_le_premier": "2026-08-16T19:09:13+00:00"
   },
   {
@@ -22426,7 +22350,7 @@
    "contact": "I.D.T sprl",
    "pro": true,
    "eur_m2": 11.15,
-   "vu_le": "2026-11-22T13:45:10+00:00",
+   "vu_le": "2026-11-23T16:46:25+00:00",
    "vu_le_premier": "2026-08-16T19:09:13+00:00"
   },
   {
@@ -22464,7 +22388,7 @@
    "contact": "TREVI LIEGE",
    "pro": true,
    "eur_m2": 13.22,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-08-16T19:09:11+00:00"
   },
   {
@@ -22502,7 +22426,7 @@
    "contact": "HOMUP",
    "pro": true,
    "eur_m2": 9.95,
-   "vu_le": "2026-11-22T13:44:48+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-08-16T19:09:11+00:00"
   },
   {
@@ -22540,7 +22464,7 @@
    "contact": "Engel & Völkers Liège",
    "pro": true,
    "eur_m2": 10.2,
-   "vu_le": "2026-11-21T13:51:49+00:00",
+   "vu_le": "2026-11-23T16:46:07+00:00",
    "vu_le_premier": "2026-08-16T19:09:11+00:00"
   },
   {
@@ -22578,7 +22502,7 @@
    "contact": "Zabra Real Estate",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:00+00:00",
+   "vu_le": "2026-11-23T16:46:06+00:00",
    "vu_le_premier": "2026-08-16T19:09:11+00:00"
   },
   {
@@ -22734,10 +22658,10 @@
    "vu_le_premier": "2026-08-16T19:09:11+00:00"
   },
   {
-   "uid": "immoweb:7ebfe2b3ea47",
+   "uid": "immoweb:0726c21e401d",
    "source": "immoweb",
    "titre": "Kot de haut standing à louer dans une nouvelle résidence.",
-   "url": "https://www.immoweb.be/fr/annonce/21649737",
+   "url": "https://www.immoweb.be/fr/annonce/21762277",
    "loyer": 650.0,
    "charges": null,
    "charges_comprises": null,
@@ -22749,9 +22673,9 @@
    "code_postal": "4000",
    "quartier": "Liège",
    "province": "Liège",
-   "adresse": "Boulevard de la Sauvenière 37",
-   "lat": 50.6438959,
-   "lon": 5.5674991,
+   "adresse": "Place Xavier Neujean 26",
+   "lat": 50.6435088,
+   "lon": 5.5675896,
    "etage": 5,
    "balcon": null,
    "parking": null,
@@ -22768,7 +22692,7 @@
    "contact": "START-Immo",
    "pro": true,
    "eur_m2": null,
-   "vu_le": "2026-11-22T13:45:11+00:00",
+   "vu_le": "2026-11-23T16:46:18+00:00",
    "vu_le_premier": "2026-08-16T19:09:11+00:00"
   },
   {
@@ -22920,7 +22844,7 @@
    "contact": "5 sur 5 Immobilier",
    "pro": true,
    "eur_m2": 10.75,
-   "vu_le": "2026-11-22T13:44:57+00:00",
+   "vu_le": "2026-11-23T16:46:12+00:00",
    "vu_le_premier": "2026-08-16T19:09:09+00:00"
   },
   {
@@ -23034,7 +22958,7 @@
    "contact": "ADK Immo",
    "pro": true,
    "eur_m2": 10.58,
-   "vu_le": "2026-11-22T13:45:15+00:00",
+   "vu_le": "2026-11-23T16:46:30+00:00",
    "vu_le_premier": "2026-08-16T19:09:08+00:00"
   },
   {
@@ -23110,7 +23034,7 @@
    "contact": "RED sa",
    "pro": true,
    "eur_m2": 19.33,
-   "vu_le": "2026-11-22T13:44:36+00:00",
+   "vu_le": "2026-11-23T16:46:03+00:00",
    "vu_le_premier": "2026-08-16T19:09:08+00:00"
   },
   {
